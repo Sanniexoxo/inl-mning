@@ -1,4 +1,6 @@
 .navigation {
     display: flex;
-
+    justify-content: right;
+    background-color: brown;
+    align-items: center;
 }
